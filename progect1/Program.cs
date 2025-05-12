@@ -10,7 +10,7 @@ namespace progect1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ll");
+            Console.WriteLine("hi shlomo");
         }
     }
 }
